@@ -1,0 +1,460 @@
+[
+  {
+    "company_id": "fixture-001",
+    "company_name": "Modal Labs",
+    "domain": "modal.com",
+    "stage": "series_a",
+    "total_raised_usd": 23000000,
+    "last_round_date": "2026-02-10",
+    "last_round_type": "Series A",
+    "last_round_amount_usd": 16000000,
+    "headcount": 28,
+    "headcount_6mo_ago": 22,
+    "hq_country": "United States",
+    "hq_city": "San Francisco",
+    "industry": "Developer Tools",
+    "founder_names": ["Erik Bernhardsson"],
+    "founder_linkedin_urls": ["https://linkedin.com/in/bernhardsson"],
+    "raw_context": {
+      "open_senior_roles": [
+        {"title": "VP of Sales", "days_open": 78},
+        {"title": "Head of Marketing", "days_open": 65}
+      ],
+      "recent_founder_posts": [
+        {"text": "Hiring great GTM leaders is genuinely the hardest thing I do. Any recs for fractional advisors who have done early SaaS GTM well?", "days_ago": 12}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-002",
+    "company_name": "Hex Technologies",
+    "domain": "hex.tech",
+    "stage": "series_b",
+    "total_raised_usd": 75500000,
+    "last_round_date": "2025-09-15",
+    "last_round_type": "Series B",
+    "last_round_amount_usd": 28000000,
+    "headcount": 145,
+    "headcount_6mo_ago": 138,
+    "hq_country": "United States",
+    "hq_city": "San Francisco",
+    "industry": "Data Analytics",
+    "founder_names": ["Barry McCardel"],
+    "raw_context": {
+      "executive_departures": [
+        {"title": "Chief Revenue Officer", "departed_days_ago": 45, "tenure_months": 14}
+      ],
+      "open_senior_roles": [
+        {"title": "VP of Sales", "days_open": 32},
+        {"title": "Head of Customer Success", "days_open": 28},
+        {"title": "VP of Marketing", "days_open": 41}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-003",
+    "company_name": "Vercel",
+    "domain": "vercel.com",
+    "stage": "series_d",
+    "total_raised_usd": 313000000,
+    "last_round_date": "2024-05-12",
+    "last_round_type": "Series E",
+    "headcount": 540,
+    "headcount_6mo_ago": 510,
+    "hq_country": "United States",
+    "industry": "Developer Tools",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-004",
+    "company_name": "Resend",
+    "domain": "resend.com",
+    "stage": "seed",
+    "total_raised_usd": 3500000,
+    "last_round_date": "2026-01-20",
+    "last_round_type": "Seed",
+    "last_round_amount_usd": 3000000,
+    "headcount": 14,
+    "headcount_6mo_ago": 10,
+    "hq_country": "United States",
+    "hq_city": "San Francisco",
+    "industry": "Developer Tools",
+    "founder_names": ["Zeno Rocha"],
+    "raw_context": {
+      "open_senior_roles": [
+        {"title": "Head of Growth", "days_open": 92}
+      ],
+      "recent_founder_posts": [
+        {"text": "We are scaling faster than expected and honestly struggling with hiring our first GTM hire. The bar is so high and we keep missing.", "days_ago": 18}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-005",
+    "company_name": "Anyscale",
+    "domain": "anyscale.com",
+    "stage": "series_c",
+    "total_raised_usd": 259000000,
+    "last_round_date": "2023-08-15",
+    "last_round_type": "Series C",
+    "headcount": 280,
+    "headcount_6mo_ago": 290,
+    "hq_country": "United States",
+    "hq_city": "San Francisco",
+    "industry": "AI Infrastructure",
+    "raw_context": {
+      "news_events": [
+        {"category": "layoff", "headline": "Anyscale lays off ~15% of workforce in restructuring", "days_ago": 38}
+      ],
+      "open_senior_roles": [
+        {"title": "VP of Enterprise Sales", "days_open": 22},
+        {"title": "Head of Product Marketing", "days_open": 35},
+        {"title": "VP of Customer Success", "days_open": 18}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-006",
+    "company_name": "Cresta",
+    "domain": "cresta.com",
+    "stage": "series_c",
+    "total_raised_usd": 156000000,
+    "last_round_date": "2024-03-08",
+    "last_round_type": "Series C",
+    "headcount": 215,
+    "headcount_6mo_ago": 220,
+    "hq_country": "United States",
+    "hq_city": "Palo Alto",
+    "industry": "AI",
+    "raw_context": {
+      "executive_departures": [
+        {"title": "CMO", "departed_days_ago": 67, "tenure_months": 22}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-007",
+    "company_name": "Pinecone",
+    "domain": "pinecone.io",
+    "stage": "series_b",
+    "total_raised_usd": 138000000,
+    "last_round_date": "2024-04-25",
+    "last_round_type": "Series B",
+    "headcount": 130,
+    "headcount_6mo_ago": 125,
+    "hq_country": "United States",
+    "hq_city": "New York",
+    "industry": "AI Infrastructure",
+    "raw_context": {
+      "news_events": [
+        {"category": "new_lead_investor", "headline": "Pinecone adds new board observer from a16z", "days_ago": 55}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-008",
+    "company_name": "Replicate",
+    "domain": "replicate.com",
+    "stage": "series_b",
+    "total_raised_usd": 57500000,
+    "last_round_date": "2024-12-04",
+    "last_round_type": "Series B",
+    "headcount": 35,
+    "headcount_6mo_ago": 32,
+    "hq_country": "United States",
+    "industry": "AI Infrastructure",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-009",
+    "company_name": "Sourcegraph",
+    "domain": "sourcegraph.com",
+    "stage": "series_d",
+    "total_raised_usd": 225000000,
+    "last_round_date": "2022-03-15",
+    "last_round_type": "Series D",
+    "headcount": 195,
+    "headcount_6mo_ago": 240,
+    "hq_country": "United States",
+    "industry": "Developer Tools",
+    "raw_context": {
+      "news_events": [
+        {"category": "layoff", "headline": "Sourcegraph announces 30% workforce reduction", "days_ago": 72}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-010",
+    "company_name": "Linear",
+    "domain": "linear.app",
+    "stage": "series_b",
+    "total_raised_usd": 51500000,
+    "last_round_date": "2023-08-25",
+    "last_round_type": "Series B",
+    "headcount": 65,
+    "headcount_6mo_ago": 58,
+    "hq_country": "United States",
+    "industry": "Developer Tools",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-011",
+    "company_name": "Defog",
+    "domain": "defog.ai",
+    "stage": "seed",
+    "total_raised_usd": 2200000,
+    "last_round_date": "2025-11-08",
+    "last_round_type": "Seed",
+    "last_round_amount_usd": 2200000,
+    "headcount": 9,
+    "headcount_6mo_ago": 6,
+    "hq_country": "United States",
+    "hq_city": "San Francisco",
+    "industry": "AI",
+    "founder_names": ["Rishabh Srivastava"],
+    "raw_context": {
+      "open_senior_roles": [
+        {"title": "Head of GTM", "days_open": 68}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-012",
+    "company_name": "Braintrust Data",
+    "domain": "braintrust.dev",
+    "stage": "series_a",
+    "total_raised_usd": 36000000,
+    "last_round_date": "2026-03-10",
+    "last_round_type": "Series A",
+    "last_round_amount_usd": 36000000,
+    "headcount": 22,
+    "headcount_6mo_ago": 18,
+    "hq_country": "United States",
+    "hq_city": "San Francisco",
+    "industry": "AI Infrastructure",
+    "founder_names": ["Ankur Goyal"],
+    "raw_context": {
+      "open_senior_roles": [
+        {"title": "VP of Sales", "days_open": 22}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-013",
+    "company_name": "Plain",
+    "domain": "plain.com",
+    "stage": "series_a",
+    "total_raised_usd": 21500000,
+    "last_round_date": "2025-09-30",
+    "last_round_type": "Series A",
+    "last_round_amount_usd": 15000000,
+    "headcount": 32,
+    "headcount_6mo_ago": 30,
+    "hq_country": "United States",
+    "industry": "Customer Support",
+    "raw_context": {
+      "sales_leader_churn": [
+        {"title": "VP of Sales", "tenure_months": 4, "departed_days_ago": 35}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-014",
+    "company_name": "Liveblocks",
+    "domain": "liveblocks.io",
+    "stage": "series_a",
+    "total_raised_usd": 19500000,
+    "last_round_date": "2024-04-15",
+    "last_round_type": "Series A",
+    "headcount": 25,
+    "headcount_6mo_ago": 24,
+    "hq_country": "United States",
+    "industry": "Developer Tools",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-015",
+    "company_name": "Sanity",
+    "domain": "sanity.io",
+    "stage": "series_c",
+    "total_raised_usd": 145600000,
+    "last_round_date": "2023-10-20",
+    "last_round_type": "Series C",
+    "headcount": 175,
+    "headcount_6mo_ago": 165,
+    "hq_country": "United States",
+    "industry": "Developer Tools",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-016",
+    "company_name": "Knock",
+    "domain": "knock.app",
+    "stage": "series_a",
+    "total_raised_usd": 27500000,
+    "last_round_date": "2026-04-05",
+    "last_round_type": "Series A Extension",
+    "last_round_amount_usd": 12000000,
+    "headcount": 30,
+    "headcount_6mo_ago": 28,
+    "hq_country": "United States",
+    "hq_city": "New York",
+    "industry": "Developer Tools",
+    "raw_context": {
+      "open_senior_roles": [
+        {"title": "VP of Marketing", "days_open": 88}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-017",
+    "company_name": "Inngest",
+    "domain": "inngest.com",
+    "stage": "series_a",
+    "total_raised_usd": 9100000,
+    "last_round_date": "2025-12-12",
+    "last_round_type": "Series A",
+    "last_round_amount_usd": 6100000,
+    "headcount": 18,
+    "headcount_6mo_ago": 13,
+    "hq_country": "United States",
+    "industry": "Developer Tools",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-018",
+    "company_name": "Trigger.dev",
+    "domain": "trigger.dev",
+    "stage": "seed",
+    "total_raised_usd": 3300000,
+    "last_round_date": "2025-04-15",
+    "last_round_type": "Seed",
+    "last_round_amount_usd": 3300000,
+    "headcount": 11,
+    "headcount_6mo_ago": 8,
+    "hq_country": "United States",
+    "industry": "Developer Tools",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-019",
+    "company_name": "Lago",
+    "domain": "getlago.com",
+    "stage": "series_a",
+    "total_raised_usd": 22000000,
+    "last_round_date": "2024-06-10",
+    "last_round_type": "Series A",
+    "headcount": 38,
+    "headcount_6mo_ago": 35,
+    "hq_country": "United States",
+    "industry": "Fintech",
+    "raw_context": {
+      "recent_founder_posts": [
+        {"text": "Looking for a fractional GTM advisor with usage-based pricing experience. Open to recs from anyone who has scaled this motion.", "days_ago": 8}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-020",
+    "company_name": "Hightouch",
+    "domain": "hightouch.com",
+    "stage": "series_c",
+    "total_raised_usd": 169000000,
+    "last_round_date": "2024-09-18",
+    "last_round_type": "Series C",
+    "headcount": 220,
+    "headcount_6mo_ago": 235,
+    "hq_country": "United States",
+    "industry": "Data",
+    "raw_context": {
+      "executive_departures": [
+        {"title": "CRO", "departed_days_ago": 78, "tenure_months": 18}
+      ],
+      "open_senior_roles": [
+        {"title": "VP of Sales", "days_open": 41},
+        {"title": "VP of Customer Success", "days_open": 38}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-021",
+    "company_name": "Mercury",
+    "domain": "mercury.com",
+    "stage": "series_c",
+    "total_raised_usd": 152000000,
+    "last_round_date": "2024-11-08",
+    "last_round_type": "Series C",
+    "headcount": 480,
+    "headcount_6mo_ago": 440,
+    "hq_country": "United States",
+    "industry": "Fintech",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-022",
+    "company_name": "Retool",
+    "domain": "retool.com",
+    "stage": "series_c",
+    "total_raised_usd": 141000000,
+    "last_round_date": "2022-12-15",
+    "last_round_type": "Series C",
+    "headcount": 320,
+    "headcount_6mo_ago": 325,
+    "hq_country": "United States",
+    "industry": "Developer Tools",
+    "raw_context": {
+      "news_events": [
+        {"category": "pivot", "headline": "Retool expands into AI agents with major product line addition", "days_ago": 45}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-023",
+    "company_name": "Lightdash",
+    "domain": "lightdash.com",
+    "stage": "series_a",
+    "total_raised_usd": 11400000,
+    "last_round_date": "2025-08-22",
+    "last_round_type": "Series A",
+    "headcount": 27,
+    "headcount_6mo_ago": 24,
+    "hq_country": "United States",
+    "industry": "Data Analytics",
+    "raw_context": {}
+  },
+  {
+    "company_id": "fixture-024",
+    "company_name": "Dust",
+    "domain": "dust.tt",
+    "stage": "series_a",
+    "total_raised_usd": 16000000,
+    "last_round_date": "2025-06-12",
+    "last_round_type": "Series A",
+    "headcount": 19,
+    "headcount_6mo_ago": 18,
+    "hq_country": "United States",
+    "industry": "AI",
+    "raw_context": {
+      "open_senior_roles": [
+        {"title": "VP of Sales", "days_open": 102}
+      ],
+      "sales_leader_churn": [
+        {"title": "Head of Revenue", "tenure_months": 5, "departed_days_ago": 50}
+      ]
+    }
+  },
+  {
+    "company_id": "fixture-025",
+    "company_name": "Brex",
+    "domain": "brex.com",
+    "stage": "series_d",
+    "total_raised_usd": 1500000000,
+    "last_round_date": "2022-01-11",
+    "last_round_type": "Series D",
+    "headcount": 1100,
+    "headcount_6mo_ago": 1150,
+    "hq_country": "United States",
+    "industry": "Fintech",
+    "raw_context": {}
+  }
+]

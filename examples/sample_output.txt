@@ -1,0 +1,58 @@
+
+========================================================================
+  LANE A: 25 prospects evaluated
+========================================================================
+  HOT       2  (partner reviews within 24h)
+  WARM      1  (analyst processes within 72h)
+  COOL      3  (quarterly nurture)
+  EXCLUDED 19  (off-ICP, no signals)
+
+  Actionable (HOT + WARM): 3
+  Avg score of actionable: 50.0/100
+
+  Top 3 by score:
+    [HOT  ]  52/100  Modal Labs
+    [HOT  ]  52/100  Resend
+    [WARM ]  46/100  Dust
+
+  Sample of highest-scoring prospect's signals:
+      Modal Labs (score 52, lane A):
+        + 22  recent_raise_60_to_180_days
+              raised Series A 94 days ago ($16,000,000)
+        + 20  open_senior_role_stale
+              stale senior role(s): VP of Sales (78d open), Head of Marketing (65d open)
+        + 10  founder_help_seeking_content
+              founder posted 12d ago (matched: fractional): "Hiring great GTM leaders is genuinely the hardest thing I do. Any recs for fractional advisors who have done early SaaS ..."
+========================================================================
+
+  Wrote: output/ranked_lane_A.csv
+  Wrote: output/ranked_lane_A.json
+
+
+========================================================================
+  LANE B: 25 prospects evaluated
+========================================================================
+  HOT       0  (partner reviews within 24h)
+  WARM      2  (analyst processes within 72h)
+  COOL      4  (quarterly nurture)
+  EXCLUDED 19  (off-ICP, no signals)
+
+  Actionable (HOT + WARM): 2
+  Avg score of actionable: 38.0/100
+
+  Top 3 by score:
+    [WARM ]  43/100  Hex Technologies
+    [WARM ]  33/100  Cresta
+    [COOL ]  28/100  Sourcegraph
+
+  Sample of highest-scoring prospect's signals:
+      Hex Technologies (score 43, lane B):
+        + 25  c_level_departure_90d
+              Chief Revenue Officer departed 45d ago
+        + 18  multiple_senior_roles_open
+              3 senior roles open simultaneously: VP of Sales, Head of Customer Success, VP of Marketing
+========================================================================
+
+  Wrote: output/ranked_lane_B.csv
+  Wrote: output/ranked_lane_B.json
+
