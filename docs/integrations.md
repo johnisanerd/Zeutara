@@ -131,7 +131,7 @@ operationally annoying parts of LinkedIn data extraction:
 | `apify/linkedin-company-scraper` | Company page: headcount over time, location, industry | $1-3 |
 | `apify/linkedin-profile-scraper` | Individual profile: experience history, current role | $2-5 |
 | `apify/linkedin-posts-scraper` | Profile posts with date and text | $3-8 |
-| `apify/glassdoor-reviews-scraper` | Company reviews for qualitative signals | $1-2 |
+| `johnvc/glassdoor-reviews-api` | Company reviews for qualitative signals (`companyUrls` in; `overallRating`, `pros`, `cons` out) | $4 |
 
 ### Endpoint pattern
 ```
